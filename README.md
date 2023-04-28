@@ -1,0 +1,2 @@
+# ConvergenceAnalysisOfAcceleratedStochasticGradientDescentUnderTheGrowthCondition
+Numrical experiments in Convergence Analysis of Accelerated StochasticGradient Descent under the Growth Condition
