@@ -1,4 +1,4 @@
-# ConvergenceAnalysisOfAcceleratedStochasticGradientDescentUnderTheGrowthCondition
+# Convergence-Analysis-of-AcceleratedSGD 
 ## Introduction
 This repository includes numrical experiments in Convergence Analysis of Accelerated StochasticGradient Descent under the Growth Condition (https://arxiv.org/abs/2006.06782). In particular, we conduct numerical experiments to validate our theoretical findings for the four considered accelerated methods: NAM, RMM, DAM+, and iDAM+. We optimize a simple quadratic loss, consider a stochastic oracle that satisfies the growth conditionbut not OUBV, and also implement SGD for the sake of a complete comparison. 
 
